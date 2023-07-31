@@ -1,0 +1,4 @@
+HW 5
+'topic_이니셜' 과 같이 본인의 고유한 토픽이름을 만들고,
+
+simplie_publisher_node 와 simple_subscribe_node 를 실행시켜 rqt_graph 창을 실행

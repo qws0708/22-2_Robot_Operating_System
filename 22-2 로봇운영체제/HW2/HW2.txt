@@ -1,0 +1,4 @@
+HW2
+
+/turtle1/cmd_vel topic에 적절한 값을 --rate 1 로 퍼블리시 하여 원을 그리는 거북이를 만듭니다. 
+그려진 원과 함께 TurtleSim 창과 본인의 username이 보이는 terminal 창을 실행

@@ -1,0 +1,4 @@
+HW 6
+service_server.py 와 service_client.py 를 작성하여 실행시키고,
+
+두 node를 실행

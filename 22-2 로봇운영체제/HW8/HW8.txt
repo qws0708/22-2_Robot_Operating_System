@@ -1,0 +1,4 @@
+HW 8
+parameters_node 를 프로그래밍하고, launch 파일을 만듭니다.
+
+launch 파일을 실행시켜서 parameters_node를 포함한 두 개 이상의 노드를 실행
